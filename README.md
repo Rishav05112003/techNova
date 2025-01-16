@@ -48,3 +48,6 @@ Make sure you have the following tools installed on your system:
     npm run dev
 
 And the project will be ready to run in **localhost:5173**
+
+
+Live link **https://tech-nova-kohl.vercel.app/**
