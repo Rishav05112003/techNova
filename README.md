@@ -8,10 +8,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
-- [Folder Structure](#folder-structure)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -29,7 +25,7 @@ This is a React-based frontend project built using Vite for faster development a
 - **React**
 - **Vite**
 - **JavaScript (ES6+)**
-- **CSS/SCSS** (or any preferred styling library)
+- **Tailwind CSS** (or any preferred styling library)
 
 ---
 
